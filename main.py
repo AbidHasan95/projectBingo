@@ -6,7 +6,7 @@ import os
 
 def changeWall():
     try:
-        print("Project Bing Initiated!!")
+        print("Project Bing Initiated !!")
         if not os.path.exists("data"):
             os.makedirs("data")
         base_url = requests.get("https://www.bing.com")
