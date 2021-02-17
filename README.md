@@ -1,6 +1,6 @@
 # Project Bingo
-## Bored of seeing the same wallpaper everyday?
-## Bing picture of the day to the rescue
+
+## Bored of seeing the same wallpaper everyday? Bing picture of the day to the rescue
 
 * Update your wallpaper with the current Bing picture of the day
 * OR just keep growing your collection of awesome wallpapers
@@ -22,7 +22,7 @@
 **Instructions**
 
 *Ensure that python 3 is installed before proceeding further*
-* Windows 10 users
+* Windows 10
   1. Complete the setup by installing the necessary packages
   2. Double-click the *script.bat* file to update the wallpaper with the current Bing picture of the day
   3. Keep a shortcut of the *script.py* file in desktop for easy accessibility
