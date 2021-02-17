@@ -1,9 +1,13 @@
-from wallpaper import get_wallpaper, set_wallpaper
-from bs4 import BeautifulSoup as bs
-import requests
-from datetime import datetime as date
-import os
-import hashlib
+try:
+    from wallpaper import get_wallpaper, set_wallpaper
+    from bs4 import BeautifulSoup as bs
+    import requests
+    from datetime import datetime as date
+    import os
+    import hashlib
+except Exception as e:
+    print("Error encountered while importing packages:",e)
+    exit()
 
 def file_as_bytes(file_path):
     with open(file_path,'rb') as f:
