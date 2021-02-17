@@ -28,7 +28,6 @@
   1. Complete the setup by installing the necessary packages. 
   2. Double-click the *script.bat* file to update the wallpaper with the current Bing picture of the day.
   3. Keep a shortcut of the *script.py* file in desktop for easy accessibility.
-
 * Linux
   1. Make sure the *main.py* file is executable
   2. Double-click the *main.py* script file to update the wallpaper with the current Bing picture of the day
